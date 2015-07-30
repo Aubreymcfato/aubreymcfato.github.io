@@ -6,12 +6,12 @@ categories: books clippings
 ---
 
 
-## [99-104](#99-104)
+## loc.[99-104](#99-104)
 >exposure to so many new ideas was producing mass confusion. The amount of information was increasing much more rapidly than our understanding of what to do with it, or our ability to differentiate the useful information from the mistruths.13 Paradoxically, the result of having so much more shared knowledge was increasing isolation along national and religious lines. The instinctual shortcut that we take when we have “too much information” is to engage with it selectively, picking out the parts we like and ignoring the remainder, making allies with those who have made the same choices and enemies of the rest.
 
 Pag. 7.
 
-## [118-20](#118-20)
+## [loc.118-20](#118-20)
 >The idea of controlling one’s fate seemed to have become part of the human consciousness by Shakespeare’s time—but not yet the competencies to achieve that end. Instead, those who tested fate usually wound up dead.18
 
 Pag. 8.
