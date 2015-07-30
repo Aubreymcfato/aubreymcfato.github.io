@@ -1,4 +1,4 @@
-New blog from [@aubreymcfato](http//twitter.com/@aubreymcfato). 
+New blog from [@aubreymcfato](http://twitter.com/@aubreymcfato). 
 
 # Kasper
 
