@@ -7,7 +7,7 @@ categories: books clippings
 
 Excerpts from Nate Silver, *The Signal and the Noise*, 2012, Penguin Books.
 
-### <a name="99-104">99-104</a>99-104
+### <a name="99-104">99-104</a>
 >exposure to so many new ideas was producing mass confusion. The amount of information was increasing much more rapidly than our understanding of what to do with it, or our ability to differentiate the useful information from the mistruths.13 Paradoxically, the result of having so much more shared knowledge was increasing isolation along national and religious lines. The instinctual shortcut that we take when we have “too much information” is to engage with it selectively, picking out the parts we like and ignoring the remainder, making allies with those who have made the same choices and enemies of the rest.
 
 Pag. 7.
