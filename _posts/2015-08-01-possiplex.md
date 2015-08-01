@@ -2,7 +2,7 @@
 layout: post 
 title:  "Possiplex" 
 date:   2015-08-01 10:30:00 
-categories: books clippings 
+categories: books
 ---
 
 Excerpts from Ted Nelson, *Possiplex*, 2012, self-published.

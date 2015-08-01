@@ -2,7 +2,7 @@
 layout: post 
 title:  "Raw Thought" 
 date:   2015-08-01 10:00:00 
-categories: books clippings 
+categories: books
 ---
 
 Excerpts from Aaron Swartz's blog, *Raw Thought*. The blog is available at http://aarons/weblog (and in EPUB [here](https://github.com/joshleitzel/rawthought)).

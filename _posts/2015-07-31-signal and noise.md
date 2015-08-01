@@ -2,7 +2,7 @@
 layout: post 
 title:  "The Signal and the Noise" 
 date:   2015-07-31 00:00:00 
-categories: books clippings 
+categories: books
 ---
 
 Excerpts from Nate Silver, *The Signal and the Noise*, 2012, Penguin Books.

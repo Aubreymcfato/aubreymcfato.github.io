@@ -2,7 +2,7 @@
 layout: post 
 title:  "Open Access" 
 date:   2015-08-01 10:45:00 
-categories: books clippings 
+categories: books
 ---
 
 Excerpts from Peter Suber, *Open Access*, 2012, MIT Press.

@@ -2,7 +2,7 @@
 layout: post 
 title:  "The Most Good You Can Do" 
 date:   2015-07-31 18:00:00 
-categories: books clippings 
+categories: books 
 ---
 
 Excerpts from Peter Singer, *The Most Good You Can Do*, 2015, Yale University Press.
