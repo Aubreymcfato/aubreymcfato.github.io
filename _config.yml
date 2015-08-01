@@ -1,6 +1,6 @@
 name: Babele
-description: Code is words. Scripts and scripta
-meta_description: 
+description: Code is words
+meta_description: Scripts and scripta.
 
 markdown: redcarpet
 highlighter: pygments
