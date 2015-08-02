@@ -5,6 +5,7 @@ date:   2015-08-02 16:46:00
 categories: books
 ---
 
+Excerpts from Eric Steven Raymond, *La cattedrale e il bazaar*, 1998.
 
 ## <a name="33-36">[33-36](#33-36)</a>
 >Per anni avevo predicato il vangelo Unix degli strumenti agili, dei prototipi immediati e della programmazione evolutiva. Ma ero anche convinto che esistesse un punto critico di complessità al di sopra del quale si rendesse necessario un approccio centralizzato e a priori. Credevo che il software più importante (sistemi operativi e strumenti davvero ingombranti come Emacs) andasse realizzato come le cattedrali, attentamente lavorato a mano da singoli geni o piccole bande di maghi che lavoravano in splendido isolamento,
@@ -30,7 +31,9 @@ Pag. 5.
 >La tradizione di condivisione dei codici tipica del mondo Unix ha sempre favorito il riutilizzo dei sorgenti (questo il motivo per cui il progetto GNU ha scelto come sistema operativo di base proprio Unix, nonostante alcune serie riserve sullo stesso). Il mondo Linux ha spinto questa tradizione vicina al suo al limite tecnologico; sono generalmente disponibili terabyte di codice open source. È quindi probabile che, impiegando del tempo a cercare il lavoro di qualcuno quasi ben fatto, si ottengano i risultati voluti. E ciò vale assai più nel mondo Linux che altrove.
 
 Pag. 6.
-115	Coltivati in maniera appropriata, gli utenti possono trasformarsi in co-sviluppatori.
+
+## <a name="115">[115](#115)</a>
+>Coltivati in maniera appropriata, gli utenti possono trasformarsi in co-sviluppatori.
 
 Pag. 8.
 
@@ -43,9 +46,6 @@ Pag. 8.
 >In realtà un po’ tutti noi del mondo open source eravamo soliti sottovalutare drasticamente il fatto che tale potenza crescesse di pari passo con il numero degli utenti e con la complessità del sistema. Finché Linus Torvalds ci ha mostrato le cose in maniera diversa. In realtà ritengo che la mossa più scaltra e consequenziale di Linus non sia stata la costruzione del kernel di Linux in sé, bensì la sua invenzione del modello di sviluppo di Linux.
 
 Pag. 8.
-127	libreria Lisp GNU
-
-Pag. 9.
 
 ## <a name="152-56">[152-56](#152-56)</a>
 >7. Distribuisci presto. Distribuisci spesso. E presta ascolto agli utenti. L’innovazione introdotta da Linus non consisteva tanto nel seguire questa pratica (qualcosa di simile faceva parte da molto tempo della tradizione del mondo Unix), quanto piuttosto nel farla crescere a un tale livello d’intensità da raggiungere la medesima complessità del lavoro di programmazione che stava facendo. A quei tempi (intorno al 1991) non era raro che egli diffondesse versioni del nuovo kernel anche più di una volta al giorno!
@@ -71,10 +71,9 @@ Pag. 12.
 >Nella concezione a bazaar, d’altra parte, si dà per scontato che generalmente i bug siano fenomeni marginali – o che almeno divengano rapidamente tali se esposti all’attenzione di migliaia di volenterosi co-sviluppatori che soppesano ogni nuova release. Ne consegue la rapidità di diffusione per ottenere maggiori correzioni, e come positivo effetto collaterale, c’è meno da perdere se viene fuori qualche toppa raffazzonata.
 
 Pag. 12.
-189	“effetto Delfi”.
 
-Pag. 13.
-192	“Il debugging è parallelizzabile”.
+## <a name="192">[192](#192)</a>	
+>“Il debugging è parallelizzabile”.
 
 Pag. 13.
 
@@ -122,7 +121,9 @@ Pag. 17.
 >Non esitare a buttar via opzioni inanellate una sull’altra quando puoi rimpiazzarle senza perdere in efficienza. Diceva Antoine de Saint-Exupéry (aviatore e designer di aerei, quando non scriveva libri per bambini): 13. “La perfezione (nel design) si ottiene non quando non c’è nient’altro da aggiungere, bensì quando non c’è più niente da togliere.” Quando il codice diventa migliore e più semplice, allora vuol dire che va bene.
 
 Pag. 19.
-299	Credo che simili risultati siano impossibili da perseguire o da pianificare.
+	
+## <a name="299">[299](#299)</a>
+Credo che simili risultati siano impossibili da perseguire o da pianificare.
 
 Pag. 20.
 

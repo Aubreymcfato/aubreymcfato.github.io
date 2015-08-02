@@ -5,6 +5,8 @@ date:   2015-08-02 16:47:00
 categories: books
 ---
 
+Excerpts from Luciano Floridi, *La rivoluzione dell’informazione*, 2012, Codice.
+
 ## <a name="93-105">[93-105](#93-105)</a>
 >È perciò molto difficile trovare un punto di partenza univoco e incontroverso. Il padre della teoria dell’informazione, Claude Shannon, fu molto cauto su questo tema: Sono stati suggeriti vari significati della parola informazione da autori differenti nell’ambito generale della teoria dell’informazione. È probabile che un certo numero di tali significati risulterà sufficientemente utile in talune applicazioni da meritare un approfondimento e un’attenzione costante. È difficile al contempo che un concetto unico di informazione renda conto in modo soddisfacente delle sue numerose possibili applicazioni in questo ambito generale.1 Warren Weaver, uno dei pionieri della traduzione automatica e coautore con Shannon della Teoria matematica della comunicazione, propose un’analisi tripartita dell’informazione in termini di: 1)  problemi tecnici concernenti la quantificazione dell’informazione e affrontati con la teoria di Shannon; 2)  problemi semantici relativi al significato e alla verità; 3)  problemi da lui definiti di influenza, attinenti all’impatto e all’effettività dell’informazione sul comportamento umano, che riteneva dovessero avere un ruolo parimenti importante.
 

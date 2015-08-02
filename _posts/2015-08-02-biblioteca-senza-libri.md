@@ -5,6 +5,8 @@ date:   2015-08-02 16:45:00
 categories: books
 ---
 
+Excerpts from David Bell, *La biblioteca senza libri*, 2013, Quodlibet.
+
 ## <a name="82-87">[82-87](#82-87)</a>
 >Le nuove tecnologie non possono semplicemente sostituire le grandi biblioteche di oggi. Dopo tutto, le biblioteche non sono solo magazzini di libri. Le biblioteche sono comunità, sorgenti di conoscenza, luoghi dove vengono ospitate collezioni di libri costruite con amore, che hanno un valore molto più grande di quello dato dalla somma delle singole pagine stampate. Lo stesso spazio fisico delle biblioteche, specie quello di autentici templi del sapere come la NYPL, influenza sottilmente il modo in cui si scrive e si legge al loro interno. Ammesso ciò, è da pazzi pensare che le biblioteche, con l’avvento delle nuove tecnologie, possano rimanere uguali a se stesse.
 
