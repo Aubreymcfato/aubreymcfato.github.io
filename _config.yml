@@ -7,9 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://aubreymcfato.github.io'
+domain_name: 'babele.io'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://aubreymcfato.github.io/'
+url:            'http://babele.io/'
 author:         'Andrea Zanni'
