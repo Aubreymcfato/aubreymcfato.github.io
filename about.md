@@ -12,4 +12,4 @@ Examples:
 
 * [Invest in toothpicks](http://babele.io/books/2015/08/01/raw-thought.html#8191-8204).     
 * [The embedding of markup is a one-way ticket to hell](http://babele.io/books/2015/08/01/possiplex.html#2).
-* [The housing crash was not a black swan. The housing crash was the elephant in the room](http://babele.io/books/2015/07/31/signal-and-noise.html#397-98). 
+* [The housing crash was not a black swan. The housing crash was the elephant in the room](http://babele.io/books/2015/07/31/signal-and-noise.html#397-98).
