@@ -6,7 +6,7 @@ title: About me
 My main blog, in Italian, is at [aubreymcfato.com](http://aubreymcfato.com). 
 I'm a digital librarian based in Italy, and I'm currently the president of Wikimedia Italia. 
 
-In `books`, you'll find my clippings from books I read on my ereader. All quotes have an header, which is linkable: if you want to cite a clipping, use the URL and add `#{ID}`. It's simple. 
+In `books`, you'll find my clippings from books I read on my ereader. All quotes have an header, which is also a link, and represents the ebook locations. 
 
 Examples:
 
