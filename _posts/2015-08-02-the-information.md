@@ -1,11 +1,11 @@
 --- 
 layout: post 
-title:  "The Information: A History, A Theory, A Flood " 
+title:  "The Information: A History, A Theory, A Flood" 
 date:   2015-08-02 17:17:00 
 categories: books
 ---
 
-Excerpts from James Gleick, *The Information: A History, A Theory, A Flood *, 2011, Vintage.
+Excerpts from James Gleick, *The Information: A History, A Theory, A Flood*, 2011, Vintage.
 
 
 ## <a name="111-12">[111-12](#111-12)</a>
