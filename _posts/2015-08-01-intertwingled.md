@@ -8,7 +8,7 @@ categories: books
 Excerpts from Peter Morville, *Intertwingled: Information Changes Everything*, 2014, Semantic Studios.
 
 
-## <a name="125-30">125-30</a>
+## <a name="125-30">[125-30](#125-30)</a>
 >“People keep pretending they can make things hierarchical, categorizable, and sequential when they can’t. Everything is deeply intertwingled.” – Theodor Holm Nelson  
 In 1974, Theodor H. Nelson wrote and self-published a book with two covers. The first, Computer Lib, is an introduction to computers that notes “any nitwit can understand computers, and many do.” The flip side, Dream Machines, is an invitation to the future of media and cognition that states “everything is deeply intertwingled.” This prescient codex served as a bible to many pioneers of the personal computer and the Internet.
 
