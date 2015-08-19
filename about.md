@@ -13,7 +13,7 @@ In `books`, you'll find my clippings from books I read on my ereader. All quotes
 * [The embedding of markup is a one-way ticket to hell](http://babele.io/books/2015/08/01/possiplex.html#2).
 * [The housing crash was not a black swan. The housing crash was the elephant in the room](http://babele.io/books/2015/07/31/signal-and-noise.html#397-98).
 
-In `slides`, you can find, well, slides (proudly made with reveal.js)
+In `slides`, you can find, well, slides (proudly made with reveal.js):
 
 * [http://babele.io/slides/comunità/](Costruire comunità), marzo 2015. 
 
