@@ -1,9 +1,7 @@
 --- 
 layout: post 
 title:  "BiblioTech" 
-date:   
-## <a name="2015-08">[2015-08](#2015-08)</a>
--21 22:50:00 
+date:  2015-08-21 22:50:00 
 categories: books
 ---
 
