@@ -18,5 +18,5 @@ In `slides`, you can find, well, slides (proudly made with reveal.js):
 
 * [Costruire comunità](http://babele.io/slides/comunità), marzo 2015. 
 
-in `[aaronswartz](http://babele.io/aaronswartz/)`, you can find a tribute ebook about Aaron Swartz. I made this book with Bernardo Parrella and several friends: we selected, translated and edited posts from Aaron and about Aaron. We also selected and wrote few articles regarding open access, hacking and open knowledge.
+in [`aaronswartz`](http://babele.io/aaronswartz/), you can find a tribute ebook about Aaron Swartz. I made this book with Bernardo Parrella and several friends: we selected, translated and edited posts from Aaron and about Aaron. We also selected and wrote few articles regarding open access, hacking and open knowledge.
 
