@@ -4,6 +4,7 @@ title: About me
 ---
 
 
+
 My main blog, in Italian, is at [aubreymcfato.com](http://aubreymcfato.com). 
 I'm a digital librarian based in Italy, and I'm currently the president of Wikimedia Italia. 
 
@@ -15,7 +16,7 @@ In `books`, you'll find my clippings from books I read on my ereader. All quotes
 
 In `slides`, you can find, well, slides (proudly made with reveal.js):
 
-* [http://babele.io/slides/comunità/](Costruire comunità), marzo 2015. 
+* [Costruire comunità](http://babele.io/slides/comunità), marzo 2015. 
 
-in `[http://babele.io/aaronswartz/](aaronswartz)`, you can find a tribute ebook about Aaron Swartz. I made this book with Bernardo Parrella and several friends: we selected, translated and edited posts from Aaron and about Aaron. We also selected and wrote few articles regarding open access, hacking and open knowledge.
+in `[aaronswartz](http://babele.io/aaronswartz/)`, you can find a tribute ebook about Aaron Swartz. I made this book with Bernardo Parrella and several friends: we selected, translated and edited posts from Aaron and about Aaron. We also selected and wrote few articles regarding open access, hacking and open knowledge.
 
