@@ -7,6 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
+permalink: :title
 domain_name: 'babele.io'
 google_analytics: 'UA-65889640-1'
 
