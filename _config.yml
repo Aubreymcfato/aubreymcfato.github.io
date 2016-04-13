@@ -15,5 +15,3 @@ google_analytics: 'UA-65889640-1'
 url:            '/feed.xml'
 author:         'Andrea Zanni'
 
-# Custom configs
-gems: [jekyll-paginate]
