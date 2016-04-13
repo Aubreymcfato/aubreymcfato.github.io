@@ -12,5 +12,5 @@ domain_name: 'babele.io'
 google_analytics: 'UA-65889640-1'
 
 # Details for the RSS feed generator
-url:            'http://babele.io/'
+url:            'http://babele.io/rss.xml'
 author:         'Andrea Zanni'
