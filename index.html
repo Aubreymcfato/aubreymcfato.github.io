@@ -23,16 +23,15 @@ about: 'about.html'
             </h2>
         </div>
     </div>
-    <form id="site_search" method="get" action="search.html">
-  <label for="search_box">Search</label><input type="text" id="search_box" name="query">
-  <input type="submit" value="search">
-</form>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 
 <main id="content" class="content" role="main">
-
+    <form id="site_search" method="get" action="search.html">
+  <label for="search_box">Search</label><input type="text" id="search_box" name="query">
+  <input type="submit" value="search">
+</form>
 
     <div class="extra-pagination inner">
         {% include pagination.html %}
