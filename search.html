@@ -1,0 +1,19 @@
+---
+layout: page
+title: Search
+---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/jquery-tapir.min.js"></script>
+<script type="text/javascript">
+jQuery(function() {
+  $('#search_results').tapir({'token': 'YOUR_TOKEN'});
+});
+</script>
+
+<form id="site_search" method="get" action="search.html">
+  <label for="search_box">Search</label><input type="text" id="search_box" name="query">
+  <input type="submit" value="search">
+</form>
+
+<ul id="search_results"></ul>
