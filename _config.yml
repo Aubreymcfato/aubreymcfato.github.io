@@ -11,7 +11,6 @@ google_analytics: 'UA-65889640-1'
 gems:
   - jekyll-paginate
   - redcarpet
-  - pygments.rb
 searchindex: yes
 
 # Details for the RSS feed generator
