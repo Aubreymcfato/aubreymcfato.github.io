@@ -3,7 +3,7 @@ $('#search_results').tapir({
 });
 
 // watch for creation of an element which satisfies the selector ".test-elem"
-$(document).arrive(".post-content a", function() {
+$(document).arrive(".post-content > a", function() {
     // 'this' refers to the newly created element
     // var $newElem = $(this);
     $(this).each(function(){
