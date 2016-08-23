@@ -8,6 +8,7 @@ $(document).arrive(".post-content a", function() {
     // var $newElem = $(this);
     $(this).each(function(){
           var newUrl = this.href.replace('/feed.xml/', '');
+          newUrl = newUrl.replace('/rss.xml/', '');
           $(this).attr('href', newUrl);
         });
 });
