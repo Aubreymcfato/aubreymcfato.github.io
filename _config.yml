@@ -10,6 +10,7 @@ baseurl: /
 permalink: /:title
 domain_name: 'babele.io'
 google_analytics: 'UA-65889640-1'
+searchindex: yes
 
 # Details for the RSS feed generator
 url:            'http://babele.io'
