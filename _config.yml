@@ -2,7 +2,7 @@ name: Babele
 description: Code is words
 meta_description: Scripts and scripta.
 
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 permalink: :title
