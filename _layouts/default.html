@@ -16,6 +16,11 @@
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 
+    {% if page.custom_css %}
+      {% for stylesheet in page.custom_css %}
+      <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
+      {% endfor %}
+    {% endif %}
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
@@ -35,6 +40,11 @@
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
 
+    {% if page.custom_js %}
+      {% for js_file in page.custom_js %}
+      <script src='/assets/js/{{ js_file }}' type="text/javascript"></script>
+      {% endfor %}
+    {% endif %}
     <!-- Google Analytics Tracking code -->
     <script type="text/javascript">
 
@@ -49,5 +59,6 @@
       })();
 
     </script>   
+
 </body>
 </html>

@@ -1,19 +1,15 @@
 ---
 layout: page
 title: Search
+custom_js:
+  - jquery-tapir.min.js
+  - search.js
 ---
 
-<script src="/jquery.min.js"></script>
-<script src="/jquery-tapir.min.js"></script>
-<script type="text/javascript">
-jQuery(function() {
-  $('#search_results').tapir({'token': '570e9e6314ad6644b943ab78'});
-});
-</script>
-
 <form id="site_search" method="get" action="search.html">
-  <label for="search_box">Search</label><input type="text" id="search_box" name="query">
+  <label for="search_box">Search:</label> <input type="text" id="search_box" name="query">
   <input type="submit" value="search">
 </form>
 
+<br />
 <ul id="search_results"></ul>
