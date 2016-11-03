@@ -16,7 +16,10 @@ In `books`, you'll find my clippings from books I read on my ereader. All quotes
 
 In `slides`, you can find, well, slides (proudly made with reveal.js):
 
-* [Costruire comunità](http://babele.io/slides/comunità), marzo 2015. 
+* [Costruire comunità](http://babele.io/slides/comunità), marzo 2015.
+* [Aaron Swartz](http://babele.io/slides/tedxtrento), novembre 2015.
+* [openMLOL](http://babele.io/slides/openmlol), marzo 2016.
+* [Open data bibliotecari](http://babele.io/slides/machinelearning), novembre 2016. 
 
 in [`aaronswartz`](http://babele.io/aaronswartz/), you can find a tribute ebook about Aaron Swartz. I made this book with Bernardo Parrella and several friends: we selected, translated and edited posts from Aaron and about Aaron. We also selected and wrote few articles regarding open access, hacking and open knowledge.
 
