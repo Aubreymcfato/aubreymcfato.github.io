@@ -7,10 +7,6 @@ categories: books
 
 Excerpts from George Dyson, *Turing's Cathedral: The Origins of the Digital Universe*, 2012, Vintage.
 
-## <a name="/1/4/2/28/3:477-/1/4/2/30:0">[/1/4/2/28/3:477-/1/4/2/30:0](#/1/4/2/28/3:477-/1/4/2/30:0)</a>
->When Elon gets into something, he develops just this different level of interest in it than other people. That is what differentiates Elon from the rest of humanity.”
-
-
 ## <a name="/1/4/20/1:213-/1/4/22:0">[/1/4/20/1:213-/1/4/22:0](#/1/4/20/1:213-/1/4/22:0)</a>
 >It is no coincidence that the most destructive and the most constructive of human inventions appeared at exactly the same time. Only the collective intelligence of computers could save us from the destructive powers of the weapons they had allowed us to invent.
 
