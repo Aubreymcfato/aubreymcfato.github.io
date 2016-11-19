@@ -43,6 +43,7 @@ July of 1945 found Rosenberg on board an army troop ship sailing at eight knots 
 Rosenberg remained in the southern Philippines until April 1946. In the post exchange, he found a copy of Atomic Energy for Military Purposes, a swiftly declassified nontechnical account of the Manhattan Project by Henry Smyth, chairman of the physics department at Princeton University. Upon his discharge from the army, at Fort Dix, New Jersey, in July of 1946—having returned across the Pacific on a turbine-driven steamship at thirty knots—Rosenberg went to Princeton to seek a job in nuclear energy research. He was hired by the Physics Department to work on the instrumentation for the university’s new cyclotron, but, he says, “my enthusiasm lasted about a month.”
 “Early in 1947,” he continues, “I was informed that at the Institute for Advanced Study, a famous scientist was looking for an engineer to develop an electronic machine of a sort no one but he understood.” Rosenberg interviewed with Bigelow and von Neumann, and started work in July. “There was a lot of anti-Semitism in the army. But there wasn’t anti-Semitism with Johnny,” he says.
 “Johnny used to meet with each of us individually about once a week, asking what we had built, how it worked, what problems we had, what symptoms we observed, what causes we had diagnosed,” says Rosenberg. “Each question was precisely the best one based on the information he had uncovered so far. His logic was faultless—he never asked a question that was irrelevant or erroneous. His questions came in rapid-fire order, revealing a mind that was lightning-fast and error-free. In about an hour he led each of us to understand what we had done, what we had encountered, and where to search for the problem’s cause. It was like looking into a very accurate mirror with all unnecessary images eliminated, only the important details left.”
+
 ## <a name="/1/4/6/1:1-/1/4/7:0">[/1/4/6/1:1-/1/4/7:0](#/1/4/6/1:1-/1/4/7:0)</a>
 >The part that is stable we are going to predict. And the part that is unstable we are going to control.  —John von Neumann, 1948
 
@@ -63,13 +64,13 @@ Rosenberg remained in the southern Philippines until April 1946. In the post exc
 
 ## <a name="/1/4/162/5:214-/1/4/164/1:29">[/1/4/162/5:214-/1/4/164/1:29](#/1/4/162/5:214-/1/4/164/1:29)</a>
 >Ulam’s self-reproducing cellular automata—patterns of information persisting across time—evolve by letting order in but not letting order out.
-When Nicholas Metropolis and 
+
 ## <a name="/1/4/164/1:391-/1/4/166:0">[/1/4/164/1:391-/1/4/166:0](#/1/4/164/1:391-/1/4/166:0)</a>
 >Ulam began imagining how, in a one-dimensional universe, cosmology might evolve. “Has anybody considered the following problem—which appears to me very pretty,” he wrote to von Neumann in February 1949. “Imagine that on the infinite line –∞ to +∞ I have occupied the integer points each with probability say ½ by material point masses—i.e. I have this situation,” and he sketched a random distribution of points on a line. “This is a distribution at time t=0.”
 
 ## <a name="/1/4/204/3:212-/1/4/206/2:36">[/1/4/204/3:212-/1/4/206/2:36](#/1/4/204/3:212-/1/4/206/2:36)</a>
 >This puzzle—how life translates between sequence and structure, and in doing so not only tolerates but takes advantage of ambiguity—would hold Ulam’s interest for the rest of his life.
-The translation puzzle also captured
+
 ## <a name="/1/4/28/1:603-/1/4/30:0">[/1/4/28/1:603-/1/4/30:0](#/1/4/28/1:603-/1/4/30:0)</a>
 >On one level, Barricelli was applying the powers of digital computing to evolution. On another level, he was applying the powers of evolution to digital computing. According to Julian Bigelow, “Barricelli was the only person who really understood the path toward genuine artificial intelligence at that time.”12
 
@@ -160,8 +161,8 @@ And the evening and the morning were the fifth day.
 >Lewis Strauss would later recall “the extraordinary picture, of sitting beside the bed of this man, in his f[if]ties, who had been an immigrant, and there surrounding him, were the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of Air, Army, Navy, and the Chiefs of Staff.”24
 
 ## <a name="/1/4/46/1:608-/1/4/48/1:7">[/1/4/46/1:608-/1/4/48/1:7](#/1/4/46/1:608-/1/4/48/1:7)</a>
->A few days before he died,” adds Ulam, “I was reading to him in Greek from his worn copy of Thucydides a story he liked especially about the Athenians’ attack on Melos, and also the speech of Pericles. He remembered enough to correct an occasional mistake or mispronunciation on my part.”26
-Marina 
+>A few days before he died,” adds Ulam, “I was reading to him in Greek from his worn copy of Thucydides a story he liked especially about the Athenians’ attack on Melos, and also the speech of Pericles. He remembered enough to correct an occasional mistake or mispronunciation on my part.”
+
 ## <a name="/1/4/48/1:143-/1/4/50:0">[/1/4/48/1:143-/1/4/50:0](#/1/4/48/1:143-/1/4/50:0)</a>
 >the illness had gone to his brain and that he could no longer think, and he asked me to test him on really simple arithmetic problems, like seven plus four, and I did this for a few minutes, and then I couldn’t take it anymore; I left the room,” she remembers, overcome by “the mental anguish of recognizing that that by which he defined himself had slipped away.”27
 
@@ -200,6 +201,7 @@ Search engines and social networks are analog computers of unprecedented scale.
 ## <a name="/1/4/61:1-/1/4/64/1:163">[/1/4/61:1-/1/4/64/1:163](#/1/4/61:1-/1/4/64/1:163)</a>
 >Over long distances, it is expensive to transport structures, and inexpensive to transmit sequences. Turing machines, which by definition are structures that can be encoded as sequences, are already propagating themselves, locally, at the speed of light. The notion that one particular computer resides in one particular location at one time is obsolete.
 If life, by some chance, happens to have originated, and survived, elsewhere in the universe, it will have had time to explore an unfathomable diversity of forms. 
+
 ## <a name="/1/4/74/7:9-/1/4/76:0">[/1/4/74/7:9-/1/4/76:0](#/1/4/74/7:9-/1/4/76:0)</a>
 >masterpiece Dr. Strangelove, nuclear weapons in the hands of Teller are, to me, less terrifying than they are in the hands of a new generation of nuclear weaponeers who have never witnessed an atmospheric test firsthand.
 
