@@ -10,7 +10,6 @@ domain_name: 'aubreymcfato.github.io'
 google_analytics: 'UA-65889640-1'
 gems:
   - jekyll-paginate
-searchindex: yes
 
 # Details for the RSS feed generator
 url:            'http://aubreymcfato.github.io'
