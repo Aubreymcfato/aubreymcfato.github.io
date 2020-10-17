@@ -2,7 +2,6 @@ name: Babele
 description: Code is words
 meta_description: Scripts and scripta.
 
-markdown: redcarpet
 highlighter: rouge
 logo: false
 paginate: 15
@@ -11,7 +10,6 @@ domain_name: 'aubreymcfato.github.io'
 google_analytics: 'UA-65889640-1'
 gems:
   - jekyll-paginate
-  - redcarpet
 searchindex: yes
 
 # Details for the RSS feed generator
