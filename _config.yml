@@ -6,7 +6,6 @@ highlighter: rouge
 logo: false
 paginate: 15
 permalink: :title
-baseurl: '/'
 domain_name: 'aubreymcfato.github.io'
 google_analytics: 'UA-65889640-1'
 gems:
